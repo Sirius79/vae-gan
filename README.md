@@ -1,1 +1,1 @@
-# vae-gan
+# VAE GAN
